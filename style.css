@@ -95,3 +95,9 @@ p{
 .cartao-conteudo-resposta{
     transform: rotateY(180deg);
 }
+
+.cartao-conteudo{
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
