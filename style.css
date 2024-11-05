@@ -39,6 +39,8 @@ footer p{
     margin: 1rem ;
     background-color: rgb(233, 182, 89);
     height: 20rem;
+    width: 400px;
+    margin-top: 30px;
     
 
 }
@@ -85,6 +87,7 @@ p{
 }
 
 .container{
+    flex-wrap: wrap;
     display: flex;
 }
 
@@ -101,3 +104,4 @@ p{
     padding: 2rem;
     margin-bottom: 2rem;
 }
+
